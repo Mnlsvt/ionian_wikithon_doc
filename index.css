@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Poppins:wght@400;600&family=Roboto+Mono:ital,wght@1,100;1,300&display=swap');
+body{   
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    border: 2px #339966 solid;
+    max-width: 100%; 
+    height: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: #339966;
+    color: #ffffff;
+    border-radius: 2%;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a h2{
+    color: pink;
+}
+
+.phab_doc p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.square p{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    text-align: center;
+
+}
+
+.mainpage_list span{
+    font-size: 30px;
+}
+
+.basic-instr{
+    text-align: center;
+
+}
+
+.basic-instr p{
+    text-align: center;
+
+}
+
+.block{
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    color: #339966
+}
+
+.footer{
+    background-color: #339966;  
+    padding: 10px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center; 
+}
+
